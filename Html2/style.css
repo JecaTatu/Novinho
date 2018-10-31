@@ -11,6 +11,8 @@ article{
 	margin-right: auto;
 	background-color:rgba(215, 222, 232, 0.5);
 	border-radius: 5%;
+	padding-top: 10px;
+	padding-bottom: 50px;
 }
 #corpinho{
 	text-align: center;
@@ -44,6 +46,7 @@ img{
 table, tr, td{
 	text-align: center;
 	border: 1px solid black;
+	margin: 1000px, 1000px, 1000px, 0px;
 	
 }
 table{
